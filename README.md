@@ -1,3 +1,0 @@
-# GroteClub
-
-Grote Club
