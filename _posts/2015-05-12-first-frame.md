@@ -1,6 +1,7 @@
 ---
 title: First Frame
 layout: post
+author: simon
 ---
 Two angles: space and time.
 
