@@ -1,0 +1,54 @@
+---
+---
+
+$font-stack:	Ubuntu, Calibri, sans-serif;
+$main-bg-col:	#1693A5;
+$container-col: #fff;
+$logo-font: Palatino,"Book Antiqua",Garamond,serif;
+$header-col: #333;
+
+body {
+	margin: 0;
+	background-image: url("../images/grote_portrait_cutout.png");
+	background-repeat: no-repeat !important;
+	background-position: right bottom !important;
+	background-attachment: fixed;
+	font-family: $font-stack;
+	background-color: $main-bg-col;
+	font-size: 1em;
+}
+div#listcont {
+	margin: 1em 0 0 2em;	
+}
+div#logo {
+	font-family: $logo-font;
+	font-weight: 900;
+	font-style: oblique;
+	font-size: 10em;
+	color: #fff;
+}
+div.posts {
+	width: 40em;
+	article {
+		padding: 1em;
+		background-color: $container-col;
+		margin: 1em 0 0 0;
+		h1 {
+			font-family: $logo-font;
+			text-decoration: none;
+			margin: 0 0 0.2em 0;
+			font-size: 2em;
+			font-style: oblique;
+			a {
+				color: $header-col;
+				text-decoration: none;
+			}
+		}
+		div.entry {
+			padding: 0 0.5em 0 0.5em;
+			text-align: justify;
+			text-justify: inter-word;
+		}
+	}
+}
+
