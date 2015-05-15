@@ -1,7 +1,27 @@
-name: Grote Club
-description: Grote Club Blog
+name: McDougall
+description: McDougall Blog 
 baseurl: "/McDougall"
-
+links:
+    About:
+        url: https://github.com/uoou/McDougall/blob/gh-pages/README.md
+    Wiki:
+        url: https://github.com/uoou/McDougall/wiki 
+    GitHub:
+        url: https://github.com/uoou/McDougall/
+    Twitter:
+        url: https://twitter.com/yemachine
+    Book:
+        url: /McDougall/book.html 
+authors:
+    simon:
+        name: Simon J. Cook
+        email: simonjohncook@gmail.com
+    brad:
+        name: Dr. Brad Hammer
+        email: 
+    chris:
+        name: Chris Donohue
+        email: cdonohue@umd.edu
 #
 # !! You don't need to change any of the configuration flags below !!
 #

@@ -2,6 +2,7 @@
 title: On Oxford Idealism
 layout: post
 author: simon
+email: simonjohncook@gmail.com
 ---
 Something I have wondered in passing, but perhaps should now explore more carefully, is McDougall's relation to Oxford idealism and to the political theory of the early 20th century known as pluralism.
 
