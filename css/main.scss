@@ -6,12 +6,31 @@ $main-bg-col:	#fff;
 $header-font:	Palatino,"Book Antiqua",Garamond,"Palladio URW",serif;
 $heading-col:	#666;
 $link-col:		#c15728;
+$comment-col:	#ececec;
+$highlight-col:	#7e7e7e; 
 
 
 body {
 	font-family: $font-stack;
 	font-size: 1em;
 	margin: 2em;
+}
+.c, .s {
+	font-size: 0.9em;
+	background-color: $comment-col;
+}
+p.c, p.s {
+	padding: 0.5em;
+}
+.c::before, .s::before {
+	color: $highlight-col;
+	font-weight: bold;
+}
+.c::before {
+	content: "Chris: ";
+}
+.s::before {
+	content: "Simon: ";
 }
 a, a:visited {
 	text-decoration: none;
