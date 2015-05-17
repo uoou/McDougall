@@ -6,6 +6,7 @@ email: donohuecr@mail.nih.gov, christopherdonohuehse@gmail.com
 ---
 McDougall has recently been revived by contemporary philosophers of science for articulating a pluralistic account of biological processes
 which contends against mechanism and mind/body dualism
+
 One of the central points of contention between the history and philosophy of science as well as between philosophers and sociologists of science
 has been around the idea of the the intrinsic worth of ideas and the possibility of evaluative criteria 
 Mary Hesse "Revolutions and Reconstructions in the Philosophy of Science" 1980 contributed to sophisticated considerations of
