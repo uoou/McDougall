@@ -1,7 +1,7 @@
 ---
 title: Is There Any Intrinsic Worth to the Ideas of William McDougall?
 layout: post
-author: Chris
+author: chris
 email: donohuecr@mail.nih.gov, christopherdonohuehse@gmail.com
 ---
 McDougall has recently been revived by contemporary philosophers of science for articulating a pluralistic account of biological processes
